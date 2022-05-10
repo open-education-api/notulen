@@ -1,7 +1,7 @@
 
 ## OOAPI werkgroep en community overleggen 2022
 
-Op de volgende data zijn de OOAPI werkgroep en community overleggen ingepland. Deze zullen tot nader orde online via WebEX plaatsvinden. De meeting link en de agenda's zullen over de lijst openonderwijsapi@list.surfnet.nl worden verstuurd.
+Op de volgende data zijn de OOAPI werkgroep en community overleggen ingepland. Deze zullen tot nader orde online via Ms Teams plaatsvinden. De meeting link en de agenda's zullen over de lijst openonderwijsapi@list.surfnet.nl worden verstuurd.
 
     Di. 25 jan. 14.00-16.00 uur
     Do. 17 mrt. 10.00-12.00 uur
